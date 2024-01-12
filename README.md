@@ -13,7 +13,7 @@ Before running the app, ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sauravsingh0604/Google_Gemini_Pro.git
+   git clone https://github.com/sauravsingh0604/Google_Gemini_Pro/tree/main
    cd your-repo
 
 
